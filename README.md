@@ -6,3 +6,6 @@ All the illustrations are in svg format so it's easy to download and modify it. 
 
 ### Walking
 ![walking](https://github.com/hemnathmouli/terrible-illustrations/blob/master/preview/walking.png?raw=true)
+
+### Bestman
+![bestman](https://github.com/hemnathmouli/terrible-illustrations/blob/master/preview/bestman.png?raw=true)
